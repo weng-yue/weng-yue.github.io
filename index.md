@@ -1,5 +1,3 @@
 # 👋 Hi, I'm Yue!
 
-Welcome to my personal page. Stay tuned for updates.
-
-## 🔬 Research Interests
+Welcome to my personal page. Stay tuned for updates. 
