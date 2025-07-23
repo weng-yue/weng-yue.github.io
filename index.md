@@ -1,5 +1,5 @@
 
-# Hi, I'm Yue! <img src="[your-image-url.jpg](https://github.com/user-attachments/assets/bb5105c2-5cb4-47f7-a905-6fe3d13f0c17)" alt="Yue" align="right" width="40" style="border-radius:50%;">
+# Hi, I'm Yue! <img src="https://github.com/user-attachments/assets/bb5105c2-5cb4-47f7-a905-6fe3d13f0c17" alt="Yue" align="right" width="200" style="border-radius:50%;">
 
 My name is Yue Weng, and I’m currently a postdoc researcher at the University of Minnesota. 
 Welcome to my personal page. Stay tuned for updates... 
