@@ -10,10 +10,13 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 
 
 **Education** 
-- PhD and MS in Aerospace Engineering, 
-    _UC San Diego_, 2018-2024, Advisor: Abhishek Saha
-- BS in Aerospace Engineering - Propulsion,
-    _Beijing University of Aeronautics and Astronautics_, 2014-2018
+- _UC San Diego_, Advisor: Abhishek Saha \
+      **PhD in Aerospace Engineering**, 2020-2024 \
+      **MS in Aerospace Engineering**, 2018-2020
+  
+- _Beijing University of Aeronautics and Astronautics_ \
+        **BS in Aerospace Engineering - Propulsion**, 2014-2018
+    
 
 **Publications** 
 - **Weng, Y.**, Potnis, A., Unni, V. R., Saha, A. (2024). Assessing local statistics of a premixed turbulent Bunsen flame. _AIAA Journal_, 1–9. [link](https://doi.org/10.2514/1.j063916)
