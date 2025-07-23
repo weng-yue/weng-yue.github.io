@@ -6,9 +6,9 @@ My name is Yue Weng, and I’m currently a postdoc researcher at the University 
 - Experimental fluids and flow imaging techniques 
 - Spray and aerosol dynamics 
 
-> **Education** 
-> - BS in Aerospace Engineering - Propulsion, Beijing Univ. of Aeronautics and Astronautics 2014-2018 
-> - MS in Aerospace Engineering, Univ. of California San Diego 2018-2020
-> - PhD in Aerospace Engineering, Univ. of California San Diego 2020-2024
+**Education** 
+- PhD in Aerospace Engineering, Univ. of California San Diego 2020-2024 
+- MS in Aerospace Engineering, Univ. of California San Diego 2018-2020 
+- BS in Aerospace Engineering - Propulsion, Beijing Univ. of Aeronautics and Astronautics 2014-2018 
 
 Welcome to my personal page. Stay tuned for updates...
