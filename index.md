@@ -5,8 +5,9 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 
 **Research Interests**
 - Instabilities in reactive and non-reactive flows 
+- Dynamical system and chaos 
 - Experimental fluids and flow imaging techniques 
-- Spray and aerosol dynamics 
+- Spray and aerosol
 
 
 **Education** 
