@@ -1,3 +1,4 @@
-Hi, I'm Yue!
+# Hi, I'm Yue! 
 
-Welcome to my personal page. Stay tuned for updates.
+My name is Yue Weng, and I’m currently a postdoctoral researcher at the University of Minnesota. 
+Welcome to my personal page. Stay tuned for updates...
