@@ -1,3 +1,4 @@
+
 # Hi, I'm Yue! 
 My name is Yue Weng, and I’m currently a postdoc researcher at the University of Minnesota. 
 Welcome to my personal page. Stay tuned for updates... 
@@ -21,6 +22,4 @@ Welcome to my personal page. Stay tuned for updates...
 - Weng, Y., Unni, V. R., Sujith, R. I., Saha, A. (2020). Synchronization framework for modeling transition to thermoacoustic instability in laminar combustors. _Nonlinear Dynamics_, 100, 3295–3306. [https://doi.org/10.1007/s11071-020-05706-3]
 - Weng, Y., Zhu, Y., Saha, A. Vortex-driven subharmonic bifurcation in a multi-flame Rijke tube. Under review at _Combustion and Flame_.
 
-
-
-
+<img width="1536" height="1024" alt="755DE6A3-9F42-4324-8DD1-947A7D00F895" src="https://github.com/user-attachments/assets/c69f871c-f065-489b-8abd-ae4e6cd7ae40" />
