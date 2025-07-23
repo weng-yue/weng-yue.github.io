@@ -13,7 +13,7 @@ Welcome to my personal page. Stay tuned for updates...
 - MS in Aerospace Engineering, _UC San Diego_ 2018-2020 
 - BS in Aerospace Engineering - Propulsion, _Beijing University of Aeronautics and Astronautics_ 2014-2018
 
-**Publications** 
+**[!Publications]** 
 
 - [Weng, Y., Potnis, A., Unni, V. R., Saha, A. (2024). Assessing local statistics of a premixed turbulent Bunsen flame. _AIAA Journal_, 1–9.] (https://doi.org/10.2514/1.j063916)
 - [Weng, Y., Unni, V. R., Sujith, R. I., Saha, A. (2023). Synchronization-based model for turbulent thermoacoustic systems.] _Nonlinear Dynamics_, 111, 12113–12126. (https://doi.org/10.1007/s11071-023-08368-z)
