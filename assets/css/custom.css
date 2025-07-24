@@ -2,6 +2,10 @@ footer .footer-col .text {
   display: none;
 }
 
+.site-title {
+  color: #f5a9b9 !important;  /* iOS-style blue */
+}
+
 
 /*.footer .footer-col p.text {*/
 /*  display: none;*/
