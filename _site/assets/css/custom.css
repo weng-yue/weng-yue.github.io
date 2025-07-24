@@ -12,17 +12,22 @@ body {
   }
 }
 
+.centered-img {
+  text-align: center;
+  margin-top: 2rem;
+}
 
-/*.site-title {*/
-/*  color: #f5a9b9 !important;  !* iOS-style blue *!*/
-/*}*/
+.centered-img img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
 
+.markdown-body a {
+  text-decoration: none;
+  color: #00a8cc; /* optional: customize link color */
+}
 
-/*.footer .footer-col p.text {*/
-/*  display: none;*/
-/*}*/
-
-/*!* Only hide the footer version of the title *!*/
-/*footer .footer-col .text {*/
-/*  display: none;*/
-/*}*/
+.markdown-body a:hover {
+  text-decoration: underline; /* optional: add back on hover */
+}
