@@ -1,9 +1,11 @@
 ---
 layout: home
-title: Welcome
+title: ""
 ---
+<link rel="stylesheet" href="/assets/css/custom.css">
 
-# Yue Weng <img src="https://github.com/user-attachments/assets/bb5105c2-5cb4-47f7-a905-6fe3d13f0c17" alt="Yue" align="right" width="150" style="border-radius:60%;">
+[//]: # (# Yue Weng <img src="https://github.com/user-attachments/assets/bb5105c2-5cb4-47f7-a905-6fe3d13f0c17" alt="Yue" align="right" width="150" style="border-radius:60%;">)
+# Yue Weng <img src="/resources/yue.jpg" alt="Yue" align="right" width="150" style="border-radius:60%;">
 Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
 
 **Research Interests**
@@ -29,5 +31,6 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 - **Weng, Y.**, Unni, V. R., Sujith, R. I., Saha, A. (2020). Synchronization framework for modeling transition to thermoacoustic instability in laminar combustors. _Nonlinear Dynamics_, 100, 3295–3306. [link](https://doi.org/10.1007/s11071-020-05706-3)
 - **Weng, Y.**, Zhu, Y., Saha, A. Vortex-driven subharmonic bifurcation in a multi-flame Rijke tube. Under review at _Combustion and Flame_.
 
-<img src="https://github.com/user-attachments/assets/c69f871c-f065-489b-8abd-ae4e6cd7ae40" alt="755DE6A3-9F42-4324-8DD1-947A7D00F895" width="600">
+[//]: # (<img src="https://github.com/user-attachments/assets/c69f871c-f065-489b-8abd-ae4e6cd7ae40" alt="755DE6A3-9F42-4324-8DD1-947A7D00F895" width="600">)
+<img src="resources/perry.png" width="600">
 

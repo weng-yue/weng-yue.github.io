@@ -1,2 +1,11 @@
 title: "Propulsion, Fluids, Chaos"
+#nav_title: "Propulsion, Fluids, Chaos"
 theme: minima
+
+# Tell Jekyll to include custom CSS
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
+
