@@ -4,7 +4,7 @@ title: "Home"
 ---
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# Yue Weng <img src="/resources/yue.jpg" alt="Yue" align="right" width="150" style="border-radius:60%;">
+# <span style="margin-top: 0;">Yue Weng</span> <img src="/resources/yue.jpg" alt="Yue" align="right" width="180" style="border-radius:50%;">
 Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
 
 **Research Interests**
@@ -31,7 +31,8 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 - **Weng, Y.**, Zhu, Y., Saha, A. Vortex-driven subharmonic bifurcation in a multi-flame Rijke tube. Under review at _Combustion and Flame_.
 
 <div class="centered-img">
-  <img src="resources/perry.png" width="600">
+<p><strong>Meet Perry, my chief slacking consultant</strong></p>
+ <img src="resources/perry3.jpg" width="800">
 </div>
 
 
