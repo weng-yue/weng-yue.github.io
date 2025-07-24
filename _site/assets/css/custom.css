@@ -2,9 +2,20 @@ footer .footer-col .text {
   display: none;
 }
 
-.site-title {
-  color: #f5a9b9 !important;  /* iOS-style blue */
+body {
+  font-size: 1rem;
 }
+
+@media (max-width: 600px) {
+  body {
+    font-size: 1.15rem;
+  }
+}
+
+
+/*.site-title {*/
+/*  color: #f5a9b9 !important;  !* iOS-style blue *!*/
+/*}*/
 
 
 /*.footer .footer-col p.text {*/
