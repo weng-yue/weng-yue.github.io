@@ -1,0 +1,17 @@
+# Ignore build artifacts
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Ignore local config and temp files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Ignore Ruby/Bundler files
+Gemfile.lock
+.bundle/
+
+# Ignore backup files (e.g., created by some editors)
+*~
