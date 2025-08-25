@@ -15,17 +15,17 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 
 **Work Experience** 
 - **_University of Minnesota Twin Cities_**\
-  Postdoc Researcher, 2024-2025\
-  Advisors: [Chris Hogan](https://hoganlab.umn.edu), [Jiarong Hong](https://www.jiaronghonglab.com)
+  Postdoc Researcher, 2024 - present\
+  Advisors: [Jiarong Hong](https://www.jiaronghonglab.com), [Chris Hogan](https://hoganlab.umn.edu)
       
 
 **Education** 
 - **_UC San Diego_**, Advisor: [Abhishek Saha](saha-lab.eng.ucsd.edu) \
-      PhD in Aerospace Engineering, 2020-2024 \
-      MS in Aerospace Engineering, 2018-2020
+      PhD in Aerospace Engineering, 2020 - 2024 \
+      MS in Aerospace Engineering, 2018 - 2020
   
 - **_Beijing University of Aeronautics and Astronautics_** \
-        BS in Aerospace Engineering - Propulsion, 2014-2018
+        BS in Aerospace Engineering - Propulsion, 2014 - 2018
     
 
 **Publications** 
