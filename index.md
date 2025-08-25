@@ -13,9 +13,14 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 - Experimental fluids and flow imaging techniques 
 - Spray and aerosol
 
+**Work Experience** 
+- **_University of Minnesota Twin Cities_**\
+  Postdoc Researcher, 2024-2025\
+  Advisors: [Chris Hogan](https://hoganlab.umn.edu), [Jiarong Hong](https://www.jiaronghonglab.com)
+      
 
 **Education** 
-- **_UC San Diego_**, Advisor: Abhishek Saha \
+- **_UC San Diego_**, Advisor: [Abhishek Saha](saha-lab.eng.ucsd.edu) \
       PhD in Aerospace Engineering, 2020-2024 \
       MS in Aerospace Engineering, 2018-2020
   
