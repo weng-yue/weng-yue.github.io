@@ -20,7 +20,7 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
       
 
 **Education** 
-- **_UC San Diego_**, Advisor: [Abhishek Saha](saha-lab.eng.ucsd.edu) \
+- **_UC San Diego_**, Advisor: [Abhishek Saha](https://saha-lab.eng.ucsd.edu) \
       PhD in Aerospace Engineering, 2020 - 2024 \
       MS in Aerospace Engineering, 2018 - 2020
   
