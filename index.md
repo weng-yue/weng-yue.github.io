@@ -40,7 +40,7 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
 
 <div class="centered-img">
 <p><strong>Meet Perry, my chief slacking consultant</strong></p>
- <img src="resources/perry_compressed.gif.gif" width="800">
+ <img src="resources/perry_compressed.gif" width="800">
 </div>
 
 
