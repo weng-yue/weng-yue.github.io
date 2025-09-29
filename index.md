@@ -5,7 +5,7 @@ title: "Home"
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 # <span style="margin-top: 0;">Yue Weng</span> <img src="/resources/yue.jpg" alt="Yue" align="right" width="180" style="border-radius:50%;">
-Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
+Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
 
 **Research Interests**
 - Instabilities in reactive and non-reactive flows 
@@ -15,7 +15,7 @@ Hi, I'm Yue, a postdoc researcher at the University of Minnesota. Welcome to my 
 
 **Work Experience** 
 - **_University of Minnesota Twin Cities_**\
-  Postdoc Researcher, 2024 - present\
+  Postdoc Associate, 2024 - present\
   Advisors: [Jiarong Hong](https://www.jiaronghonglab.com), [Chris Hogan](https://hoganlab.umn.edu)
       
 
