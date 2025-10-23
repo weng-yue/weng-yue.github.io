@@ -8,10 +8,9 @@ title: "Home"
 Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
 
 **Research Interests**
-- Instabilities in reactive and non-reactive flows 
+- Combustion instability, flame dynamics  
 - Dynamical system and chaos 
-- Experimental fluids and flow imaging techniques 
-- Spray and aerosol
+- Flow imaging techniques  
 
 **Work Experience** 
 - **_University of Minnesota Twin Cities_**\
