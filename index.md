@@ -4,7 +4,7 @@ title: "Home"
 ---
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# <span style="margin-top: 0;">Yue Weng</span> <img src="/resources/yue.jpg" alt="Yue" align="right" width="180" style="border-radius:50%;">
+# <span style="margin-top: 0;">Yue Weng</span> <img src="/resources/pic_25.jpg" alt="Yue" align="right" width="180" style="border-radius:50%;">
 Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
 
 **Research Interests**
