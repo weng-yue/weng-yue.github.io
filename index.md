@@ -37,6 +37,19 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
 **Manuscripts Under Preparation**
 - **Weng, Y.**, Zhu, Y., Unni, V. R., Sujith, R. I., Saha, A. Detecting early warning signals of turbulent thermoacoustic systems using modal analysis.
 
+**Teaching Assistantship (UCSD)**
+- **MAE 101B – Advanced Fluid Mechanics**, Winter 2024  
+- **MAE 104 – Aerodynamics**, Fall 2023  
+- **MAE 101B – Advanced Fluid Mechanics**, Winter 2023  
+- **MAE 201 – Mechanics of Fluids (Graduate Course)**, Fall 2022  
+- **MAE 101A – Introductory Fluid Mechanics**, Winter 2022  
+- **MAE 201 – Mechanics of Fluids (Graduate Course)**, Fall 2021  
+- **MAE 104 – Aerodynamics**, Summer Session I, 2020  
+- **MAE 101C – Heat Transfer**, Spring 2020  
+- **MAE 11 – Thermodynamics**, Winter 2020  
+- **MAE 201 – Mechanics of Fluids (Graduate Course)**, Fall 2019  
+- **MAE 104 – Aerodynamics**, Summer Session I, 2019
+
 <div class="centered-img">
 <p><strong>Meet Perry, my chief slacking consultant</strong></p>
  <img src="resources/perry_compressed.gif" width="600">
