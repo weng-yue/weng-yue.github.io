@@ -36,6 +36,8 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
 
 **Manuscripts Under Preparation**
 - **Weng, Y.**, Zhu, Y., Unni, V. R., Sujith, R. I., Saha, A. Detecting early warning signals of turbulent thermoacoustic systems using modal analysis.
+- **Weng, Y.**, Kumar, M. S., Hogan C. J., Fredericks, S. A., Hong, J., Formation and dynamics of secondary droplets from agricultural spray impingement on leaves
+- **Weng, Y.**, Kumar, A., Hua, Y., Hong, J.,  Three-dimensional ejection kinematics of lofted firebrands in a buoyant fire plume
 
 **Teaching Assistantship (UCSD)**
 - **MAE 101B – Advanced Fluid Mechanics**, Winter 2024  
