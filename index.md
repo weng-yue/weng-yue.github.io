@@ -24,7 +24,7 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
       MS in Aerospace Engineering, 2018 - 2020
   
 - **_Beijing University of Aeronautics and Astronautics_** \
-        BS in Aircraft Propulsion Engineering, 2014 - 2018
+        BS in Aerospace Engineering - Propulsion, 2014 - 2018
     
 
 **Publications** 
