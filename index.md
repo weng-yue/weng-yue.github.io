@@ -40,8 +40,8 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
 - **Weng, Y.**, Kumar, A., Hua, Y., Hong, J.,  Three-dimensional ejection kinematics of lofted firebrands in a buoyant fire plume
 
 **Teaching Assistantship (UCSD)** 
-- **MAE 104 – Aerodynamics**, Summer I 2019, Summer I 2020, Fall 2023   
-- **MAE 201 – Mechanics of Fluids (Graduate Course)**, Fall 2019, Fall 2021, Fall 2022
+- **MAE 201 – Mechanics of Fluids** (Graduate Course), Fall 2019, Fall 2021, Fall 2022
+- **MAE 104 – Aerodynamics**, Summer I 2019, Summer I 2020, Fall 2023
 - **MAE 101A – Introductory Fluid Mechanics**, Winter 2022
 - **MAE 101B – Advanced Fluid Mechanics**, Winter 2023, Winter 2024
 - **MAE 101C – Heat Transfer**, Spring 2020  
