@@ -8,9 +8,10 @@ title: "Home"
 Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
 
 **Research Interests**
-- Combustion instability, flame dynamics  
-- Dynamical system and chaos 
-- Flow imaging techniques  
+- Combustion instability and flame dynamics
+- Complex systems and nonlinear dynamics in fluids
+- Advanced flow imaging techniques, including digital holography and 3D-PTV
+ 
 
 **Work Experience** 
 - **_University of Minnesota Twin Cities_**\
@@ -23,7 +24,7 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
       PhD in Aerospace Engineering, 2020 - 2024 \
       MS in Aerospace Engineering, 2018 - 2020
   
-- **_Beijing University of Aeronautics and Astronautics_** \
+- **_Beihang University_** (aka Beijing University of Aeronautics and Astronautics) \
         BS in Aerospace Engineering - Propulsion, 2014 - 2018
     
 
