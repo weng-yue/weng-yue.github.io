@@ -35,10 +35,13 @@ Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal p
 - **Weng, Y.**, Potnis, A., Saha, A. (2023). Regime and morphology of polyhedral Bunsen flames. _Combustion and Flame_, 248, 112585. [>>](https://doi.org/10.1016/j.combustflame.2022.112585)
 - **Weng, Y.**, Unni, V. R., Sujith, R. I., Saha, A. (2020). Synchronization framework for modeling transition to thermoacoustic instability in laminar combustors. _Nonlinear Dynamics_, 100, 3295–3306. [>>](https://doi.org/10.1007/s11071-020-05706-3)
 
-**Manuscripts Under Preparation**
-- **Weng, Y.**, Zhu, Y., Unni, V. R., Sujith, R. I., Saha, A. Detecting early warning signals of turbulent thermoacoustic systems using modal analysis.
-- **Weng, Y.**, Kumar, M. S., Hogan C. J., Fredericks, S. A., Hong, J., Formation and dynamics of secondary droplets from agricultural spray impingement on leaves
-- **Weng, Y.**, Kumar, A., Hua, Y., Hong, J.,  Three-dimensional ejection kinematics of lofted firebrands in a buoyant fire plume
+[//]: # (**Manuscripts Under Preparation**)
+
+[//]: # (- **Weng, Y.**, Zhu, Y., Unni, V. R., Sujith, R. I., Saha, A. Detecting early warning signals of turbulent thermoacoustic systems using modal analysis.)
+
+[//]: # (- **Weng, Y.**, Kumar, M. S., Hogan C. J., Fredericks, S. A., Hong, J., Formation and dynamics of secondary droplets from agricultural spray impingement on leaves)
+
+[//]: # (- **Weng, Y.**, Kumar, A., Hua, Y., Hong, J.,  Three-dimensional ejection kinematics of lofted firebrands in a buoyant fire plume)
 
 [//]: # (**Teaching Assistantship &#40;UCSD&#41;** )
 
