@@ -5,7 +5,7 @@ title: "Yue Weng"
 
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Combustion, instability, and nonlinear dynamics</p>
+    <p class="eyebrow">Reacting flow, instability, and nonlinear dynamics</p>
     <h1>Yue Weng</h1>
     <p class="lead">
       I study how flames, flows, and complex dynamical systems organize, transition, and become unstable.
