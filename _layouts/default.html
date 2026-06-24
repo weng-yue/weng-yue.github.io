@@ -1,28 +1,31 @@
-<html lang="en" style="margin: 0; padding: 0;">
+<!doctype html>
+<html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Yue Weng</title>
-    <meta name="description" content="Fluids, propulsion, chaos...">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="Yue Weng - fluids, propulsion, combustion, and nonlinear dynamics.">
     <meta name="author" content="Yue Weng">
-
-    <!-- Import Cabin font -->
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="Research, publications, and updates from Yue Weng.">
     <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/custom.css">
   </head>
-<!--  <body style="margin: 0; padding: 0; font-family: sans-serif; background: rgb(25, 35, 38); color: rgb(200, 205, 210);">-->
-<!--<body style="margin: 0; padding: 0; font-family: sans-serif; background: rgb(25, 35, 38); color: rgb(200, 205, 210);">-->
-<body style="margin: 0; padding: 0; font-family: sans-serif; background: rgb(60, 60, 65); color: rgb(210, 220, 220);">
-
-<!--    <header style="font-family: 'Cabin', sans-serif; font-size: 2rem; margin-bottom: 0; background: rgb(28, 42, 52); color: white; padding: 1rem; width: 100%; box-sizing: border-box;">-->
-    <header style="font-family: sans-serif; font-size: 2rem; margin-bottom: 0; background: rgb(28, 42, 52); color: white; padding: 1rem; width: 100%; box-sizing: border-box;">
-      <span style="color:rgb(50, 160, 255);">Fluids,</span>
-      <span style="color:rgb(255, 160, 140);">Propulsion,</span>
-      <span style="color:white;">Chaos</span>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="/" aria-label="Yue Weng home">
+        <span>Fluids</span>
+        <span>Propulsion</span>
+        <span>Chaos</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="#research">Research</a>
+        <a href="#experience">Experience</a>
+        <a href="#publications">Publications</a>
+      </nav>
     </header>
-
-    <div style="padding: 2rem;">
+    <main class="page-shell">
       {{ content }}
-    </div>
-
+    </main>
   </body>
 </html>

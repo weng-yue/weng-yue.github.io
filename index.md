@@ -1,67 +1,158 @@
 ---
 layout: default
-title: "Home"
+title: "Yue Weng"
 ---
-<link rel="stylesheet" href="/assets/css/custom.css">
 
-# <span style="margin-top: 0;">Yue Weng</span> <img src="/resources/pic_25_2.jpg" alt="Yue" align="right" width="250" style="border-radius:50%;">
-Hi, I am Yue, a postdoc at the University of Minnesota. Welcome to my personal page. Stay tuned for updates... 
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Combustion, fluids, and nonlinear dynamics</p>
+    <h1>Yue Weng</h1>
+    <p class="lead">
+      I study how flames, flows, and complex dynamical systems organize, transition, and become unstable.
+      I am currently a Postdoctoral Associate at the University of Minnesota and will join Mississippi State
+      University as an Assistant Professor in August 2026.
+    </p>
+    <div class="hero-actions" aria-label="Primary links">
+      <a class="button" href="#publications">View publications</a>
+      <a class="button secondary" href="#experience">Current role</a>
+    </div>
+  </div>
+  <figure class="portrait">
+    <img src="/resources/pic_25_2.jpg" alt="Portrait of Yue Weng">
+  </figure>
+</section>
 
-**Research Interests**
-- Combustion instability and flame dynamics
-- Complex systems and nonlinear dynamics in fluids
-- Advanced flow imaging techniques, including digital holography and 3D-PTV
- 
+<section class="snapshot" aria-label="Professional snapshot">
+  <div>
+    <span class="label">Now</span>
+    <strong>Postdoctoral Associate</strong>
+    <p>Department of Mechanical Engineering</p>
+    <p>University of Minnesota Twin Cities</p>
+  </div>
+  <div>
+    <span class="label">Next</span>
+    <strong>Assistant Professor</strong>
+    <p>Department of Aerospace Engineering</p>
+    <p>Mississippi State University, August 2026</p>
+  </div>
+</section>
 
-**Work Experience** 
-- **_University of Minnesota Twin Cities_**\
-  Postdoc Associate, 2024 - present\
-  Advisors: [Jiarong Hong](https://www.jiaronghonglab.com), [Chris Hogan](https://hoganlab.umn.edu)
-      
+<section id="research" class="section">
+  <div class="section-heading">
+    <p class="eyebrow">Research Interests</p>
+    <h2>How coherent behavior emerges in fluid and flame systems</h2>
+  </div>
+  <div class="research-grid">
+    <article>
+      <h3>Combustion instability</h3>
+      <p>Thermoacoustic transitions, flame dynamics, synchronization, and instability mechanisms in reacting flows.</p>
+    </article>
+    <article>
+      <h3>Complex systems</h3>
+      <p>Nonlinear dynamics, bifurcations, coherent structures, and reduced descriptions of high-dimensional flows.</p>
+    </article>
+    <article>
+      <h3>Flow imaging</h3>
+      <p>Advanced diagnostics including digital holography, 3D particle tracking velocimetry, and data-rich experiments.</p>
+    </article>
+  </div>
+</section>
 
-**Education** 
-- **_UC San Diego_**, Advisor: [Abhishek Saha](https://saha-lab.eng.ucsd.edu) \
-      PhD in Aerospace Engineering, 2020 - 2024 \
-      MS in Aerospace Engineering, 2018 - 2020
-  
-- **_Beihang University_** (aka Beijing University of Aeronautics and Astronautics) \
-        BS in Aerospace Engineering - Propulsion, 2014 - 2018
-    
+<section id="experience" class="section two-column">
+  <div class="section-heading">
+    <p class="eyebrow">Experience</p>
+    <h2>Appointments</h2>
+  </div>
+  <div class="timeline">
+    <article>
+      <div class="timeline-date">Aug. 2026 <span>(Incoming)</span></div>
+      <div>
+        <h3>Assistant Professor</h3>
+        <p class="timeline-unit">Department of Aerospace Engineering</p>
+        <p>Mississippi State University</p>
+      </div>
+    </article>
+    <article>
+      <div class="timeline-date">2024 - Present</div>
+      <div>
+        <h3>Postdoctoral Associate</h3>
+        <p class="timeline-unit">Department of Mechanical Engineering</p>
+        <p>University of Minnesota Twin Cities</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-**Publications** 
-- **Weng, Y.**, Zhu, Y., Saha, A. (2025). Vortex-driven subharmonic bifurcation in a multi-flame Rijke tube. _Combustion and Flame_, 282, 114447. [>>](https://www.sciencedirect.com/science/article/pii/S0010218025004845)
-- **Weng, Y.**, Potnis, A., Unni, V. R., Saha, A. (2024). Assessing local statistics of a premixed turbulent Bunsen flame. _AIAA Journal_, 1–9. [>>](https://doi.org/10.2514/1.j063916)
-- **Weng, Y.**, Unni, V. R., Sujith, R. I., Saha, A. (2023). Synchronization-based model for turbulent thermoacoustic systems. _Nonlinear Dynamics_, 111, 12113–12126. [>>](https://doi.org/10.1007/s11071-023-08368-z)
-- **Weng, Y.**, Potnis, A., Saha, A. (2023). Regime and morphology of polyhedral Bunsen flames. _Combustion and Flame_, 248, 112585. [>>](https://doi.org/10.1016/j.combustflame.2022.112585)
-- **Weng, Y.**, Unni, V. R., Sujith, R. I., Saha, A. (2020). Synchronization framework for modeling transition to thermoacoustic instability in laminar combustors. _Nonlinear Dynamics_, 100, 3295–3306. [>>](https://doi.org/10.1007/s11071-020-05706-3)
+<section class="section two-column">
+  <div class="section-heading">
+    <p class="eyebrow">Education</p>
+    <h2>Training</h2>
+  </div>
+  <div class="timeline">
+    <article>
+      <div class="timeline-date">2020 - 2024</div>
+      <div>
+        <h3>PhD in Aerospace Engineering</h3>
+        <p class="timeline-unit">UC San Diego</p>
+        <p>Advisor: <a href="https://saha-lab.eng.ucsd.edu">Abhishek Saha</a>.</p>
+      </div>
+    </article>
+    <article>
+      <div class="timeline-date">2018 - 2020</div>
+      <div>
+        <h3>MS in Aerospace Engineering</h3>
+        <p>UC San Diego</p>
+      </div>
+    </article>
+    <article>
+      <div class="timeline-date">2014 - 2018</div>
+      <div>
+        <h3>BS in Aerospace Engineering - Propulsion</h3>
+        <p class="timeline-unit">Beihang University</p>
+        <p>(aka <em>Beijing University of Aeronautics and Astronautics</em>)</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-[//]: # (**Manuscripts Under Preparation**)
+<section id="publications" class="section publications">
+  <div class="section-heading">
+    <p class="eyebrow">Publications</p>
+    <h2>Selected Journal Articles</h2>
+  </div>
+  <ol class="publication-list">
+    <li>
+      <strong>Weng, Y.</strong>, Zhu, Y., Saha, A. (2025). Vortex-driven subharmonic bifurcation in a multi-flame Rijke tube.
+      <em>Combustion and Flame</em>, 282, 114447.
+      <a href="https://doi.org/10.1016/j.combustflame.2025.114447">DOI</a>
+    </li>
+    <li>
+      <strong>Weng, Y.</strong>, Potnis, A., Unni, V. R., Saha, A. (2024). Assessing local statistics of a premixed turbulent Bunsen flame.
+      <em>AIAA Journal</em>, 1-9.
+      <a href="https://doi.org/10.2514/1.j063916">DOI</a>
+    </li>
+    <li>
+      <strong>Weng, Y.</strong>, Unni, V. R., Sujith, R. I., Saha, A. (2023). Synchronization-based model for turbulent thermoacoustic systems.
+      <em>Nonlinear Dynamics</em>, 111, 12113-12126.
+      <a href="https://doi.org/10.1007/s11071-023-08368-z">DOI</a>
+    </li>
+    <li>
+      <strong>Weng, Y.</strong>, Potnis, A., Saha, A. (2023). Regime and morphology of polyhedral Bunsen flames.
+      <em>Combustion and Flame</em>, 248, 112585.
+      <a href="https://doi.org/10.1016/j.combustflame.2022.112585">DOI</a>
+    </li>
+    <li>
+      <strong>Weng, Y.</strong>, Unni, V. R., Sujith, R. I., Saha, A. (2020). Synchronization framework for modeling transition to thermoacoustic instability in laminar combustors.
+      <em>Nonlinear Dynamics</em>, 100, 3295-3306.
+      <a href="https://doi.org/10.1007/s11071-020-05706-3">DOI</a>
+    </li>
+  </ol>
+</section>
 
-[//]: # (- **Weng, Y.**, Zhu, Y., Unni, V. R., Sujith, R. I., Saha, A. Detecting early warning signals of turbulent thermoacoustic systems using modal analysis.)
-
-[//]: # (- **Weng, Y.**, Kumar, M. S., Hogan C. J., Fredericks, S. A., Hong, J., Formation and dynamics of secondary droplets from agricultural spray impingement on leaves)
-
-[//]: # (- **Weng, Y.**, Kumar, A., Hua, Y., Hong, J.,  Three-dimensional ejection kinematics of lofted firebrands in a buoyant fire plume)
-
-[//]: # (**Teaching Assistantship &#40;UCSD&#41;** )
-
-[//]: # (- **MAE 201 – Mechanics of Fluids** &#40;Graduate Course&#41;, Fall 2019, Fall 2021, Fall 2022)
-
-[//]: # (- **MAE 104 – Aerodynamics**, Summer I 2019, Summer I 2020, Fall 2023)
-
-[//]: # (- **MAE 101A – Introductory Fluid Mechanics**, Winter 2022)
-
-[//]: # (- **MAE 101B – Advanced Fluid Mechanics**, Winter 2023, Winter 2024)
-
-[//]: # (- **MAE 101C – Heat Transfer**, Spring 2020  )
-
-[//]: # (- **MAE 11 – Thermodynamics**, Winter 2020)
-
-<div class="centered-img">
-<p><strong>Meet Perry, my chief slacking consultant</strong></p>
- <img src="resources/perry_compressed.gif" width="400">
-</div>
-
-
-
-
+<section class="section personal-note">
+  <div>
+    <p class="eyebrow">Outside the lab</p>
+    <h2>Meet Perry, my chief slacking consultant</h2>
+  </div>
+  <img src="/resources/perry_compressed.gif" alt="Perry relaxing">
+</section>
