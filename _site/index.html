@@ -22,6 +22,7 @@
         <a href="#research">Research</a>
         <a href="#experience">Experience</a>
         <a href="#publications">Publications</a>
+        <a class="nav-new" href="#perry">Pat Perry <span>New</span></a>
       </nav>
     </header>
     <main class="page-shell">
@@ -187,14 +188,19 @@
   </ol>
 </section>
 
-<section class="section personal-note">
+<section id="perry" class="section personal-note">
   <div>
     <p class="eyebrow">Outside the lab</p>
     <h2>Meet Perry, my chief slacking consultant</h2>
+    <p class="pat-hint">(click to pat)</p>
   </div>
-  <img src="/resources/perry_compressed.gif" alt="Perry relaxing" />
+  <button class="pat-target" type="button" aria-label="Pat Perry" data-pat-target="">
+    <img src="/resources/perry_compressed.gif" alt="Perry relaxing" />
+    <span class="sr-only" aria-live="polite" data-pat-status=""></span>
+  </button>
 </section>
 
     </main>
+    <script src="/assets/js/pats.js?v=20260625" defer></script>
   </body>
 </html>

@@ -165,10 +165,14 @@ title: "Yue Weng"
   </ol>
 </section>
 
-<section class="section personal-note">
+<section id="perry" class="section personal-note">
   <div>
     <p class="eyebrow">Outside the lab</p>
     <h2>Meet Perry, my chief slacking consultant</h2>
+    <p class="pat-hint">(click to pat)</p>
   </div>
-  <img src="/resources/perry_compressed.gif" alt="Perry relaxing">
+  <button class="pat-target" type="button" aria-label="Pat Perry" data-pat-target>
+    <img src="/resources/perry_compressed.gif" alt="Perry relaxing">
+    <span class="sr-only" aria-live="polite" data-pat-status></span>
+  </button>
 </section>

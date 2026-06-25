@@ -96,6 +96,26 @@ a:hover {
   color: var(--text);
 }
 
+.site-nav .nav-new {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.28rem;
+}
+
+.site-nav .nav-new span {
+  display: inline-grid;
+  min-height: 1.1rem;
+  place-items: center;
+  padding: 0.08rem 0.32rem;
+  border-radius: 999px;
+  background: var(--red);
+  color: #fff;
+  font-size: 0.58rem;
+  font-weight: 800;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
 .page-shell {
   width: min(1120px, calc(100% - 2rem));
   margin: 0 auto;
@@ -454,11 +474,83 @@ h3 {
   font-size: clamp(1.45rem, 2.4vw, 2rem);
 }
 
-.personal-note img {
+.pat-hint {
+  margin: 0.45rem 0 0;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.pat-target {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ctext x='2' y='38' font-size='34'%3E%F0%9F%AB%B3%F0%9F%8F%BB%3C/text%3E%3C/svg%3E") 18 8, pointer;
+  touch-action: manipulation;
+}
+
+.pat-target:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 4px;
+}
+
+.pat-target img {
+  display: block;
   width: 100%;
   max-height: 320px;
-  border-radius: 8px;
   object-fit: cover;
+  transition: transform 160ms ease;
+}
+
+.pat-target:hover img,
+.pat-target.is-patted img {
+  transform: scale(1.018);
+}
+
+.pat-pop {
+  position: absolute;
+  left: var(--pat-x);
+  top: var(--pat-y);
+  z-index: 2;
+  color: var(--red);
+  font-size: 1.45rem;
+  font-weight: 800;
+  line-height: 1;
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff, 0 8px 18px rgba(24, 35, 40, 0.24);
+  transform: translate(-50%, -50%);
+  animation: pat-pop 760ms ease-out forwards;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@keyframes pat-pop {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -20%) scale(0.68);
+  }
+
+  18% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -145%) scale(1.16);
+  }
 }
 
 @media (max-width: 780px) {
@@ -515,9 +607,22 @@ h3 {
   }
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .pat-target img,
+  .social-link:hover,
+  .social-link:focus-visible {
+    transition: none;
+    transform: none;
+  }
+
+  .pat-pop {
+    animation-duration: 1ms;
+  }
+}
+
 @media (max-width: 440px) {
   .site-nav {
-    gap: 0.6rem;
+    gap: 0.45rem;
     font-size: 0.88rem;
   }
 
