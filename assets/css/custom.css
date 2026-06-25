@@ -100,6 +100,12 @@ a:hover {
   display: inline-flex;
   align-items: center;
   gap: 0.28rem;
+  color: #7b2cbf;
+  font-weight: 800;
+}
+
+.site-nav .nav-new:hover {
+  color: #5a189a;
 }
 
 .site-nav .nav-new span {
@@ -108,12 +114,13 @@ a:hover {
   place-items: center;
   padding: 0.08rem 0.32rem;
   border-radius: 999px;
-  background: var(--red);
+  background: #7b2cbf;
   color: #fff;
   font-size: 0.58rem;
   font-weight: 800;
   line-height: 1;
   text-transform: uppercase;
+  animation: new-blink 1.35s ease-in-out infinite;
 }
 
 .page-shell {
@@ -553,6 +560,19 @@ h3 {
   }
 }
 
+@keyframes new-blink {
+  0%,
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  50% {
+    opacity: 0.45;
+    transform: translateY(-1px);
+  }
+}
+
 @media (max-width: 780px) {
   body {
     font-size: 17px;
@@ -615,8 +635,10 @@ h3 {
     transform: none;
   }
 
+  .site-nav .nav-new span,
   .pat-pop {
     animation-duration: 1ms;
+    animation-iteration-count: 1;
   }
 }
 
