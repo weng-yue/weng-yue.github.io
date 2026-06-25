@@ -6,7 +6,23 @@ title: "Yue Weng"
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">Reacting flow, instability, and nonlinear dynamics</p>
-    <h1>Yue Weng</h1>
+    <div class="name-row">
+      <h1>Yue Weng</h1>
+      <div class="social-links" aria-label="Social profiles">
+        <a class="social-link social-link-image" href="https://scholar.google.com/citations?hl=en&user=6vMOFNcAAAAJ" aria-label="Google Scholar profile" title="Google Scholar" target="_blank" rel="noopener">
+          <img src="/resources/google-scholar.png" alt="" aria-hidden="true">
+        </a>
+        <a class="social-link social-link-image" href="https://www.linkedin.com/in/yueweng2024/" aria-label="LinkedIn profile" title="LinkedIn" target="_blank" rel="noopener">
+          <img src="/resources/linkedin.png" alt="" aria-hidden="true">
+        </a>
+        <a class="social-link social-link-image orcid" href="https://orcid.org/0000-0003-1761-9670" aria-label="ORCID profile" title="ORCID" target="_blank" rel="noopener">
+          <img src="/resources/orcid.png" alt="" aria-hidden="true">
+        </a>
+        <a class="social-link social-link-image researchgate" href="https://www.researchgate.net/profile/Yue-Weng-3" aria-label="ResearchGate profile" title="ResearchGate" target="_blank" rel="noopener">
+          <img src="/resources/researchgate.png" alt="" aria-hidden="true">
+        </a>
+      </div>
+    </div>
     <p class="lead">
       I study how flames, flows, and complex dynamical systems organize, transition, and become unstable.
       I am currently a Postdoctoral Associate at the University of Minnesota and will join Mississippi State
