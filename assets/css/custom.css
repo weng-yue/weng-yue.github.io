@@ -68,15 +68,15 @@ a:hover {
 }
 
 .site-title span:nth-child(1) {
-  color: var(--blue);
+  color: #d84f8a;
 }
 
 .site-title span:nth-child(2) {
-  color: var(--red);
+  color: var(--blue);
 }
 
 .site-title span:nth-child(3) {
-  color: var(--green);
+  color: #6f767b;
 }
 
 .site-nav {
