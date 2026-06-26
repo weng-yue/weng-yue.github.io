@@ -101,23 +101,23 @@ title: "Yue Weng"
 
 <section class="section two-column">
   <div class="section-heading">
-    <p class="eyebrow">Education</p>
-    <h2>Training</h2>
+    <p class="eyebrow">Academic History</p>
+    <h2>Education</h2>
   </div>
   <div class="timeline">
     <article>
       <div class="timeline-date">2020 - 2024</div>
       <div>
         <h3>PhD in Aerospace Engineering</h3>
-        <p class="timeline-unit">UC San Diego</p>
-        <p>Advisor: <a href="https://saha-lab.eng.ucsd.edu">Abhishek Saha</a>.</p>
+        <p class="timeline-unit">University of California San Diego</p>
+        <p>Advisor: <a href="https://saha-lab.eng.ucsd.edu">Abhishek Saha</a></p>
       </div>
     </article>
     <article>
       <div class="timeline-date">2018 - 2020</div>
       <div>
         <h3>MS in Aerospace Engineering</h3>
-        <p>UC San Diego</p>
+        <p class="timeline-unit">University of California San Diego</p>
       </div>
     </article>
     <article>
@@ -125,7 +125,7 @@ title: "Yue Weng"
       <div>
         <h3>BS in Aerospace Engineering - Propulsion</h3>
         <p class="timeline-unit">Beihang University</p>
-        <p>(aka <em>Beijing University of Aeronautics and Astronautics</em>)</p>
+        <p>(aka <em>Beijing Univ. of Aeronautics & Astronautics</em>)</p>
       </div>
     </article>
   </div>
