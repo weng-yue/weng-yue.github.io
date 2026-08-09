@@ -24,8 +24,8 @@ title: "Yue Weng"
       </div>
     </div>
     <p class="lead">
-      I study how flames, flows, and complex dynamical systems organize, transition, and become unstable.
       I am an Assistant Professor in the Department of Aerospace Engineering at Mississippi State University.
+      I study how flames, flows, and complex dynamical systems organize, transition, and become unstable.
     </p>
   </div>
   <figure class="portrait">
