@@ -25,32 +25,12 @@ title: "Yue Weng"
     </div>
     <p class="lead">
       I study how flames, flows, and complex dynamical systems organize, transition, and become unstable.
-      I am currently a Postdoctoral Associate at the University of Minnesota and will join Mississippi State
-      University as an Assistant Professor in August 2026.
+      I am an Assistant Professor in the Department of Aerospace Engineering at Mississippi State University.
     </p>
-    <div class="hero-actions" aria-label="Primary links">
-      <a class="button" href="#publications">View publications</a>
-      <a class="button secondary" href="#experience">Current role</a>
-    </div>
   </div>
   <figure class="portrait">
     <img src="/resources/pic_25_2.jpg" alt="Portrait of Yue Weng">
   </figure>
-</section>
-
-<section class="snapshot" aria-label="Professional snapshot">
-  <div>
-    <span class="label">Now</span>
-    <strong>Postdoctoral Associate</strong>
-    <p>Department of Mechanical Engineering</p>
-    <p>University of Minnesota Twin Cities</p>
-  </div>
-  <div>
-    <span class="label">Next</span>
-    <strong>Assistant Professor</strong>
-    <p>Department of Aerospace Engineering</p>
-    <p>Mississippi State University, August 2026</p>
-  </div>
 </section>
 
 <section id="research" class="section">
@@ -81,7 +61,7 @@ title: "Yue Weng"
   </div>
   <div class="timeline">
     <article>
-      <div class="timeline-date">Aug. 2026 <span>(Incoming)</span></div>
+      <div class="timeline-date">2026 - Present</div>
       <div>
         <h3>Assistant Professor</h3>
         <p class="timeline-unit">Department of Aerospace Engineering</p>
@@ -89,10 +69,9 @@ title: "Yue Weng"
       </div>
     </article>
     <article>
-      <div class="timeline-date">2024 - Present</div>
+      <div class="timeline-date">2024 - 2026</div>
       <div>
         <h3>Postdoctoral Associate</h3>
-        <p class="timeline-unit">Department of Mechanical Engineering</p>
         <p>University of Minnesota Twin Cities</p>
       </div>
     </article>
@@ -108,7 +87,7 @@ title: "Yue Weng"
     <article>
       <div class="timeline-date">2020 - 2024</div>
       <div>
-        <h3>PhD in Aerospace Engineering</h3>
+        <h3>Ph.D. in Aerospace Engineering</h3>
         <p class="timeline-unit">University of California San Diego</p>
         <p>Advisor: <a href="https://saha-lab.eng.ucsd.edu">Abhishek Saha</a></p>
       </div>
@@ -116,14 +95,14 @@ title: "Yue Weng"
     <article>
       <div class="timeline-date">2018 - 2020</div>
       <div>
-        <h3>MS in Aerospace Engineering</h3>
+        <h3>M.S. in Aerospace Engineering</h3>
         <p class="timeline-unit">University of California San Diego</p>
       </div>
     </article>
     <article>
       <div class="timeline-date">2014 - 2018</div>
       <div>
-        <h3>BS in Aerospace Engineering - Propulsion</h3>
+        <h3>B.Eng. in Aerospace Engineering - Propulsion</h3>
         <p class="timeline-unit">Beihang University</p>
         <p>(aka <em>Beijing Univ. of Aeronautics & Astronautics</em>)</p>
       </div>
